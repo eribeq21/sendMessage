@@ -1,3 +1,14 @@
+# MessageApp
+
+## Project Overview 
+ 
+This project is developed using Svelte and styled with CSS. It features a straightforward layout comprising a header, a main content section, and a footer. The main content updates automatically based on user interactions.
+ 
+## Features
+- **Responsive** design with an elegant user interface
+- **Dynamic state** management using $state
+- **Adaptable layout** that supports rendering of child components
+
 # sv
  
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -38,30 +49,3 @@ You can preview the production build with `npm run preview`.
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
  
  
-# Svelte Project
-# MessageApp
-
-## Project Overview 
- 
-This project is developed using Svelte and styled with CSS. It features a straightforward layout comprising a header, a main content section, and a footer. The main content updates automatically based on user interactions.
- 
-## Features
-- **Responsive** design with an elegant user interface
-- **Dynamic state** management using $state
-- **Adaptable layout** that supports rendering of child components
- 
-## Getting Started
- 
-### Prerequisites
-Make sure you have [Node.js](https://nodejs.org/) installed.
- 
-## Creating a Project
- 
-If you're seeing this, you've probably already completed this step. Congrats!
- 
-```bash
-# create a new project in the current directory
-npx sv create
- 
-# create a new project in my-app
-npx sv create my-app
