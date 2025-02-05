@@ -9,6 +9,17 @@ This project is a sleek Svelte application designed for user-friendly interactio
 - **Dynamic state** management using $state
 - **Adaptable layout** that supports rendering of child components
 
+# Files Overview
+
+## +layout.svelte
+
+This file provides the overall structure of the application, including a header, footer, and a dynamic content area
+
+## +page.svelte
+
+This page includes an input field bound to a reactive variable, displaying the entered text in real time.
+
+
 
 # Installation and Development
 
@@ -27,18 +38,6 @@ Install the necessary dependencies  in the package.json file
 ```bash
 npm install
 ```
-
-
-# Files Overview
-
-## +layout.svelte
-
-This file provides the overall structure of the application, including a header, footer, and a dynamic content area
-
-## +page.svelte
-
-This page includes an input field bound to a reactive variable, displaying the entered text in real time.
-
  
 # Developing
  
