@@ -39,13 +39,16 @@ You can preview the production build with `npm run preview`.
  
  
 # Svelte Project
+# MessageApp
+
+## Project Overview 
  
 This project is developed using Svelte and styled with CSS. It features a straightforward layout comprising a header, a main content section, and a footer. The main content updates automatically based on user interactions.
  
 ## Features
-- Responsive design with an elegant user interface
-- Dynamic state management using $state
-- Adaptable layout that supports rendering of child components
+- **Responsive** design with an elegant user interface
+- **Dynamic state** management using $state
+- **Adaptable layout** that supports rendering of child components
  
 ## Getting Started
  

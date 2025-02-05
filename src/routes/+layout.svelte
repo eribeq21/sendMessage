@@ -2,8 +2,8 @@
 	// Import the global CSS file for styling
 	import '../app.css'; 
 	
-	// Retrieve the passed props, specifically "children" (content of the layout)
-	let { children } = $props();
+	// Retrieve the passed props, 
+	let { children } = $props(); // specifically  recieve "children" (content of the layout)
 </script>
 
 <header>
