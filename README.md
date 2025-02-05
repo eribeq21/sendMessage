@@ -1,8 +1,8 @@
 # MessageApp
 
 ## Project Overview 
- 
-This project is developed using Svelte and styled with CSS. It features a straightforward layout comprising a header, a main content section, and a footer. The main content updates automatically based on user interactions.
+
+This project is a sleek Svelte application designed for user-friendly interaction. Users can input a message, which dynamically displays in real-time, providing immediate feedback and enhancing the user experience.It features a straightforward layout comprising a header, a main content section, and a footer. The main content updates automatically based on user interactions.
  
 ## Features
 - **Responsive** design with an elegant user interface
